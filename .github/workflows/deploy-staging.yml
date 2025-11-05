@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: theDemantor-azure-ttt
-  AZURE_WEBAPP_NAME: theDemantor-ttt-app
+  DOCKER_IMAGE_NAME: TheDemantor-azure-ttt
+  AZURE_WEBAPP_NAME: TheDemantor-ttt-app
   ###############################################
 
 jobs:
